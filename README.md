@@ -14,3 +14,6 @@ The system simulates a real-time environment without persistent storage, using s
 - Appointment Management: Booking, viewing, and canceling appointments for parents; managing availability for teachers.
 - Meeting Simulation: Simulated video-conferencing for virtual meetings between parents and teachers.
 - State Management: System transitions through states from Dormant to ParentsEveningOn, following specific timelines for booking, meeting preparation, and conducting parents' evenings.
+
+## License
+This project is licensed under the [MIT License](./LICENSE.txt).
